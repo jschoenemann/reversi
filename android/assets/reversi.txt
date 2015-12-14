@@ -1,0 +1,32 @@
+reversi.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_chip
+  rotate: false
+  xy: 10, 10
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+board_section
+  rotate: false
+  xy: 105, 10
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+board_section2
+  rotate: false
+  xy: 200, 10
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+white_chip
+  rotate: false
+  xy: 295, 10
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
